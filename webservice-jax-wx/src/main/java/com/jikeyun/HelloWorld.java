@@ -6,6 +6,9 @@ package com.jikeyun;
  */
 public class HelloWorld {
     public static void main(String[] args) {
+        int a = 10;
+        int b = 20;
+        System.out.println("a+b = " +(a+b));
         System.out.println("周末快乐!");
         System.out.println("周末快乐!");
         System.out.println("周末快乐!");
