@@ -14,6 +14,7 @@ public class HelloWorld {
         System.out.println("周末快乐!");
         System.out.println("周末快乐!");
         System.out.println("周末快乐!");
-
+     //添加变量
+        int c =5;
     }
 }
